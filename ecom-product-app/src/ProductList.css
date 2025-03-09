@@ -1,0 +1,17 @@
+.product-list {
+  padding: 20px;
+}
+.product-list ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 0;
+}
+input {
+  padding: 10px;
+}
+
+input::placeholder {
+  color: rgba(255, 255, 255, 0.87);
+}

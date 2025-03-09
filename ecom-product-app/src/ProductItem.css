@@ -1,0 +1,22 @@
+.product-item {
+  border: 1px solid #1a1e85;
+  padding: 10px;
+  border-radius: 8px;
+  text-align: left;
+  width: 200px;
+  background: linear-gradient(to bottom, #343434, #1a1919);
+}
+.product-item img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+.category {
+  font-weight: bold;
+  color: #ced930;
+}
+button {
+  background: #ced930;
+  color: #000;
+  padding: 10px;
+}
