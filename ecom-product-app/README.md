@@ -48,15 +48,10 @@ To ensure that my app works correctly, I tested the following:
 - The layout and styling provide a visually appealing display.
 
 ## Bonus Enhancements
-To extend the project, I considered adding:
+To extend the project, I added:
 - A category attribute to filter products by category.
 - Images for each product in the `ProductItem` component.
 
-## Final Checklist
-Before wrapping up the project, I confirmed that:
-- The product list renders correctly.
-- State and props are used properly across components.
-- CSS styling is applied to enhance the UI.
 
 This project provided a great starting point for working with React components and passing data efficiently. Future enhancements could include event handling, interactivity, and further UI improvements.
 
